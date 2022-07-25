@@ -4,7 +4,7 @@
 - I am a Graphic Designer and Video editor.<br>
 Creating content for Minecraft is high priority!
 
-- I upload most of my projects on:<br>
+- Support my projects on:<br><br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U45AZ06)
 
 <!---
