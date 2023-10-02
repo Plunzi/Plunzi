@@ -1,10 +1,14 @@
-- 👋 **Hi, I’m Lukas**<br>
-*// also known as Plunzi*
+``🧑‍💻 Lukas.txt.exe - Executing                                   ⎯⠀❐⠀⤬ ``
 
-- I am a Graphic Designer and Web Developer.<br>
+![commits](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+👋 **Hi, I’m Lukas**<br>
+I am a Graphic Designer and Webdev.  Currently studying media technology.<br>
+Portfolio Page: https://plunzi.com/ 🎥 🎨 🇦🇹
+
 Creating free content for everyone is high priority!
 
-- Support my projects on:<br><br>
+Support my projects on:<br><br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U45AZ06)
 
 <!---
