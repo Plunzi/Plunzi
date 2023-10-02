@@ -1,4 +1,4 @@
-``🧑‍💻 Lukas.txt.exe - Executing                        ⎯⠀❐⠀⤬ ``
+``🧑‍💻 Lukas.txt.exe - running    ⎯⠀❐⠀⤬ ``
 
 ![commits](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
