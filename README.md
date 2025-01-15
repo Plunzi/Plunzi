@@ -6,6 +6,8 @@ Portfolio Page: https://plunzi.com/ 🎥 🎨 🇦🇹
 
 ![commits](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
+[Plunzish Studios](https://plunzish.com) $${\color{gray}/}$$ [WebOS](https://webos.plunzi.com/) $${\color{gray}/}$$ [Search](https://search.plunzi.com/) $${\color{gray}/}$$ [Plunzle](https://daily.plunzi.com/) $${\color{gray}/}$$ [Cookie Clicker](https://plunzi-clicker.vercel.app)
+
 Creating  ``🚀 modern``, ``🖌️ good looking UIs``, and ``⚙️ software`` is my passion!<br>
 If something made you want to contact me, here is my email ``📧 contact.plunzi@gmail.com`` and Discord ``🍕 @plunzi``.
 
