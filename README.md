@@ -6,7 +6,7 @@ Portfolio Page: https://plunzi.com/ 🎥 🎨 🇦🇹
 
 ![commits](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-[Plunzish Studios](https://plunzish.com) $${\color{gray}/}$$ [CMS](https://github.com/Plunzi/svelted-cms) $${\color{gray}/}$$ [WebOS](https://webos.plunzi.com/) $${\color{gray}/}$$ [Stats](https://stats.plunzish.com/) $${\color{gray}/}$$ [Search](https://search.plunzi.com/) $${\color{gray}/}$$ [Plunzle](https://daily.plunzish.com/) $${\color{gray}/}$$ [Cookie Clicker](https://plunzi-clicker.vercel.app)
+Public Projects: [Plunzish Studios](https://plunzish.com) $${\color{gray}/}$$ [CMS](https://github.com/Plunzi/svelted-cms) $${\color{gray}/}$$ [WebOS](https://webos.plunzi.com/) $${\color{gray}/}$$ [Stats](https://stats.plunzish.com/) $${\color{gray}/}$$ [Search](https://search.plunzi.com/) $${\color{gray}/}$$ [Plunzle](https://daily.plunzish.com/) $${\color{gray}/}$$ [Cookie Clicker](https://plunzi-clicker.vercel.app)
 
 Creating  ``🚀 modern``, ``🖌️ good looking UIs``, and ``⚙️ software`` is my passion!<br>
 If something made you want to contact me, here is my email ``📧 contact.plunzi@gmail.com`` and Discord ``🍕 @plunzi``.
